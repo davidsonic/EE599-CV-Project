@@ -6,7 +6,7 @@ import argparse
 Config ={}
 # you should replace it with your own root_path
 Config['root_path'] = '/mnt/jiali/data/outfits/new_polyvore/test/polyvore_outfits'
-Config['meta_file'] = 'train_category.json'
+Config['meta_file'] = 'polyvore_item_metadata.json'
 Config['checkpoint_path'] = ''
 
 
