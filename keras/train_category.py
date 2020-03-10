@@ -2,7 +2,6 @@ from tensorflow.keras.layers import GlobalAveragePooling2D, Dense
 from tensorflow.keras.models import Model
 
 from data import polyvore_dataset, DataGenerator
-from model import base_model
 from utils import Config
 
 import tensorflow as tf

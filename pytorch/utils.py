@@ -4,8 +4,8 @@ import os.path as osp
 import argparse
 
 Config ={}
-Config['root_path'] = '/mnt/jiali/data/outfits/new_polyvore/polyvore_outfits'
-Config['meta_file'] = 'polyvore_item_metadata.json'
+Config['root_path'] = '/mnt/jiali/data/outfits/new_polyvore/test/polyvore_outfits'
+Config['meta_file'] = 'train_category.json'
 Config['checkpoint_path'] = ''
 
 

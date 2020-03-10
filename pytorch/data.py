@@ -51,7 +51,7 @@ class polyvore_dataset:
         meta_json = json.load(meta_file)
         id_to_category = {}
         for k, v in tqdm(meta_json.items()):
-            id_to_category[k] = v['category_id']
+            id_to_category[k] = v
 
         # create X, y pairs
         files = os.listdir(self.image_dir)
