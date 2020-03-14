@@ -18,5 +18,8 @@ The second task requires constructing <(x1,x2), binary_label> pair for classific
 5. sklearn
 
 Dataset:
-- Polyvore Outfits: https://drive.google.com/open?id=1ZCDRRh4wrYDq0O3FOptSlBpQFoe0zHTw
+- Polyvore Outfits (download link): https://drive.google.com/open?id=1ZCDRRh4wrYDq0O3FOptSlBpQFoe0zHTw
+
+or directly download from google drive on AWS:
+https://gist.github.com/davidsonic/5c419db600f24a984d3a6b56b0b2053a
 
